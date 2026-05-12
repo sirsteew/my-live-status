@@ -84,20 +84,25 @@
 
    <script>
     function refreshStatus() {
-        var xhr = new XMLHttpRequest();
-        // Aggiungiamo un numero casuale per evitare che il browser memorizzi la vecchia versione (cache)
-        xhr.open("GET", "status.json?t=" + Math.random(), true);
-        xhr.onreadystatechange = function () {
-            if (xhr.readyState === 4 && xhr.status === 200) {
-                var data = JSON.parse(xhr.responseText);
-                
-                // Aggiorna Stato Attuale
-                if (data.history && data.history.length > 0) {
-                    document.getElementById('current-activity').innerText = data.history[0].activity;
-                }
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "status.json?t=" + Math.random(), true);
+    xhr.onreadystatechange = function () {
+        if (xhr.readyState === 4 && xhr.status === 200) {
+            var data = JSON.parse(xhr.responseText);
+            
+            // 1. Identifichiamo gli elementi HTML
+            var statusDisplay = document.getElementById('current-activity');
+            var logContainer = document.getElementById('history-log');
 
-                // Aggiorna il Log
-                var logContainer = document.getElementById('history-log');
+            // 2. SOSTITUISCI DA QUI: Logica di controllo svuotamento
+            if (!data.history || data.history.length === 0) {
+                // Cosa mostrare quando il log è vuoto
+                statusDisplay.innerText = "In attesa di aggiornamenti...";
+                logContainer.innerHTML = '<div style="text-align:center; padding:20px; color:#aaa; font-style:italic;">Nessuna attività recente</div>';
+            } else {
+                // Cosa mostrare quando ci sono dati
+                statusDisplay.innerText = data.history[0].activity;
+
                 var html = '';
                 for (var i = 0; i < data.history.length; i++) {
                     var item = data.history[i];
@@ -108,9 +113,11 @@
                 }
                 logContainer.innerHTML = html;
             }
-        };
-        xhr.send();
-    }
+            // A QUI
+        }
+    };
+    xhr.send();
+}
     setInterval(refreshStatus, 3000);
     refreshStatus();
 </script>
