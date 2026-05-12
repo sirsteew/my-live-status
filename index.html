@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Live Signage - Steew</title>
+    <style>
+        body {
+            background-color: #0f172a;
+            color: #f8fafc;
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            display: flex;
+            height: 100vh;
+            overflow: hidden;
+        }
+        /* Colonna Sinistra: Stato Attuale */
+        .left-panel {
+            flex: 1.5;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            border-right: 2px solid #334155;
+            padding: 2rem;
+            text-align: center;
+        }
+        /* Colonna Destra: Log Storico */
+        .right-panel {
+            flex: 1;
+            background: #1e293b;
+            padding: 2rem;
+            overflow-y: auto;
+        }
+        .header {
+            color: #94a3b8;
+            text-transform: uppercase;
+            letter-spacing: 0.2em;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        #current-activity {
+            font-size: 4.5rem;
+            font-weight: 800;
+            color: #38bdf8;
+            line-height: 1.1;
+        }
+        .log-entry {
+            background: #334155;
+            padding: 1rem;
+            border-radius: 12px;
+            margin-bottom: 1rem;
+            border-left: 4px solid #38bdf8;
+            animation: slideIn 0.3s ease-out;
+        }
+        .log-time {
+            font-size: 0.8rem;
+            color: #94a3b8;
+            margin-bottom: 5px;
+        }
+        .log-text { font-size: 1.1rem; font-weight: 500; }
+        .dot { height: 12px; width: 12px; background-color: #22c55e; border-radius: 50%; box-shadow: 0 0 10px #22c55e; }
+        
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateX(20px); }
+            to { opacity: 1; transform: translateX(0); }
+        }
+    </style>
+</head>
+<body>
+    <div class="left-panel">
+        <div class="header"><span class="dot"></span> Attività in corso</div>
+        <div id="current-activity">In attesa...</div>
+    </div>
+    
+    <div class="right-panel">
+        <div class="header">Log Giornaliero</div>
+        <div id="history-log">
+            <!-- I messaggi appariranno qui -->
+        </div>
+    </div>
+
+   <script>
+    function refreshStatus() {
+        var xhr = new XMLHttpRequest();
+        // Aggiungiamo un numero casuale per evitare che il browser memorizzi la vecchia versione (cache)
+        xhr.open("GET", "status.json?t=" + Math.random(), true);
+        xhr.onreadystatechange = function () {
+            if (xhr.readyState === 4 && xhr.status === 200) {
+                var data = JSON.parse(xhr.responseText);
+                
+                // Aggiorna Stato Attuale
+                if (data.history && data.history.length > 0) {
+                    document.getElementById('current-activity').innerText = data.history[0].activity;
+                }
+
+                // Aggiorna il Log
+                var logContainer = document.getElementById('history-log');
+                var html = '';
+                for (var i = 0; i < data.history.length; i++) {
+                    var item = data.history[i];
+                    html += '<div class="log-entry">' +
+                            '<div class="log-time">' + item.time + '</div>' +
+                            '<div class="log-text">' + item.activity + '</div>' +
+                            '</div>';
+                }
+                logContainer.innerHTML = html;
+            }
+        };
+        xhr.send();
+    }
+    setInterval(refreshStatus, 3000);
+    refreshStatus();
+</script>
+</body>
+</html>
