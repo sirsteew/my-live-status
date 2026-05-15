@@ -2,6 +2,10 @@
     "date": "2026-05-15",
     "history": [
         {
+            "time": "09:17",
+            "activity": "Riattivazione stampante Anagrafe"
+        },
+        {
             "time": "09:00",
             "activity": "Installazione e configurazione monitor LiveStatus"
         }
