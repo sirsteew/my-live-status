@@ -1,45 +1,4 @@
 {
     "date": "2026-05-22",
-    "history": [
-        {
-            "time": "13:03",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:50",
-            "activity": "Polizia Locale > Errico (blocco di Adobe Acrobat)"
-        },
-        {
-            "time": "11:40",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:24",
-            "activity": "PAUSA CAFFE'"
-        },
-        {
-            "time": "11:05",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:57",
-            "activity": "Emanuela: ufficio segreteria sindaco > Brambillasca (problemi tastiera)"
-        },
-        {
-            "time": "10:39",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:27",
-            "activity": "Emanuela: da Bortolotto per supporto tecnico"
-        },
-        {
-            "time": "09:04",
-            "activity": "Emanuela: ufficio ragioneria > Bellia (per info liquidazioni)"
-        },
-        {
-            "time": "09:03",
-            "activity": "STEFANO OGGI IN FERIE"
-        }
-    ]
+    "history": []
 }
