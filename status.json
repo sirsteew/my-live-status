@@ -1,29 +1,4 @@
 {
     "date": "2026-05-29",
-    "history": [
-        {
-            "time": "11:01",
-            "activity": "Emanuela & Stefano: caffe"
-        },
-        {
-            "time": "11:00",
-            "activity": "Emanuela: ho provato a chiamarla per darle la relazione"
-        },
-        {
-            "time": "11:00",
-            "activity": "Stefano: tornato una decina di minuti fa"
-        },
-        {
-            "time": "09:42",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:42",
-            "activity": "Emanuela: uff. tributi > Tosi (disinstallazione programma)"
-        },
-        {
-            "time": "09:39",
-            "activity": "Stefano: permesso per vaccinazione"
-        }
-    ]
+    "history": []
 }
