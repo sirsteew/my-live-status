@@ -1,21 +1,9 @@
 {
-    "date": "2026-06-01",
+    "date": "2026-06-03",
     "history": [
         {
-            "time": "13:24",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:43",
-            "activity": "Emanuela: auditorium"
-        },
-        {
-            "time": "11:03",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:37",
-            "activity": "Dal capo :)"
+            "time": "09:05",
+            "activity": "siamo in ufficio"
         }
     ]
 }
