@@ -1,33 +1,4 @@
 {
     "date": "2026-06-04",
-    "history": [
-        {
-            "time": "17:40",
-            "activity": "Stefano + Crippa > sala riunione ammezzato > Consulente Wind"
-        },
-        {
-            "time": "15:38",
-            "activity": "Stefano: Polizia Locale > Vellego (installazione GIMP per stampa sinistri)"
-        },
-        {
-            "time": "14:42",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "13:19",
-            "activity": "Emanuela & Stefano > Pranzo"
-        },
-        {
-            "time": "11:54",
-            "activity": "Stefano: uff. tecnico > Camassa+Reali+Scaringi (calcolatore IMU)"
-        },
-        {
-            "time": "11:26",
-            "activity": "Stefano + Crippa: incontro da remoto con ACME per PagoPA (in ufficio Crippa)"
-        },
-        {
-            "time": "11:08",
-            "activity": "Emanuela & Stefano > Pausa Caff\u00e8"
-        }
-    ]
+    "history": []
 }
