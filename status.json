@@ -1,25 +1,4 @@
 {
     "date": "2026-06-24",
-    "history": [
-        {
-            "time": "13:32",
-            "activity": "Stefano: da Alberti per certificato ANPR"
-        },
-        {
-            "time": "12:57",
-            "activity": "Emanuela: in sala giunta per aggiornamento monitor"
-        },
-        {
-            "time": "12:57",
-            "activity": "Stefano: da Scaringi per REGIS"
-        },
-        {
-            "time": "11:09",
-            "activity": "Stefano: in missione a Brugherio dal Segretario"
-        },
-        {
-            "time": "09:14",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
