@@ -1,33 +1,4 @@
 {
     "date": "2026-06-26",
-    "history": [
-        {
-            "time": "12:48",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:45",
-            "activity": "Stefano: da Camassa (assegnazione ruolo Admin in PagoPA)"
-        },
-        {
-            "time": "10:34",
-            "activity": "in ufficio "
-        },
-        {
-            "time": "10:06",
-            "activity": "Emanuela: Servizi Sociali > Marchesi"
-        },
-        {
-            "time": "10:06",
-            "activity": "Stefano in ufficio"
-        },
-        {
-            "time": "09:16",
-            "activity": "S + E : anagrafe per spostamento postazione Barnabei"
-        },
-        {
-            "time": "09:16",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
