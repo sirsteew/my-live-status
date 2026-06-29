@@ -1,41 +1,4 @@
 {
     "date": "2026-06-29",
-    "history": [
-        {
-            "time": "12:21",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:59",
-            "activity": "Stefano > Parmigiani (come Pozzi)"
-        },
-        {
-            "time": "11:06",
-            "activity": "Stefano > Pozzi (attivazione autenticazione a due fattori)"
-        },
-        {
-            "time": "10:32",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:20",
-            "activity": "Stefano > Errico (in sala consiliare)"
-        },
-        {
-            "time": "10:12",
-            "activity": "Stefano: da mandelli per collegamento cartelle"
-        },
-        {
-            "time": "09:51",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:41",
-            "activity": "Stefano > dal Capo / Emanuela > Alberti"
-        },
-        {
-            "time": "08:54",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
