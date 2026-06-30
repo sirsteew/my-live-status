@@ -2,6 +2,10 @@
     "date": "2026-06-30",
     "history": [
         {
+            "time": "16:00",
+            "activity": "in ufficio"
+        },
+        {
             "time": "15:59",
             "activity": "Emanuela: Avvio riunione per Alberti in sala giunta"
         },
