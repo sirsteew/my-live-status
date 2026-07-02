@@ -1,25 +1,4 @@
 {
-    "date": "2026-07-01",
-    "history": [
-        {
-            "time": "11:11",
-            "activity": "caffe "
-        },
-        {
-            "time": "09:44",
-            "activity": "in ufficio (entrambi)"
-        },
-        {
-            "time": "09:43",
-            "activity": "Emanuela - in ufficio"
-        },
-        {
-            "time": "09:31",
-            "activity": "Stefano: Simone - uff.tributi (estrazione dati Halley)"
-        },
-        {
-            "time": "09:06",
-            "activity": "Emanuela: Anagrafe (nuova dipendente)"
-        }
-    ]
+    "date": "2026-07-02",
+    "history": []
 }
