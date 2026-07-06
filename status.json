@@ -1,41 +1,4 @@
 {
     "date": "2026-07-06",
-    "history": [
-        {
-            "time": "12:57",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:40",
-            "activity": "Tosi > problema con la firma digitale"
-        },
-        {
-            "time": "12:33",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:17",
-            "activity": "Sangalli C > con le due psicologhe nuove effettuazione primo accesso sul pc"
-        },
-        {
-            "time": "11:33",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:13",
-            "activity": "Sangalli C > problema videochiamata"
-        },
-        {
-            "time": "10:42",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:48",
-            "activity": "Pettinicchio > pc bloccato"
-        },
-        {
-            "time": "08:53",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
