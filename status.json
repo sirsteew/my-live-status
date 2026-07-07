@@ -2,6 +2,10 @@
     "date": "2026-07-07",
     "history": [
         {
+            "time": "11:22",
+            "activity": "Sindaco"
+        },
+        {
             "time": "10:50",
             "activity": "Protocollo"
         },
