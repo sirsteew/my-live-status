@@ -1,45 +1,4 @@
 {
     "date": "2026-07-14",
-    "history": [
-        {
-            "time": "16:16",
-            "activity": "Pausa caff\u00e8"
-        },
-        {
-            "time": "15:12",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "13:18",
-            "activity": "Pausa pranzo"
-        },
-        {
-            "time": "13:12",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:33",
-            "activity": "da Mandelli"
-        },
-        {
-            "time": "10:32",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:55",
-            "activity": " Servizi Sociali > arrivata l'ultima psicologa. Vado a consegnare le istruzioni e a far firmare il modulo di consegna. Poi torno in ufficio"
-        },
-        {
-            "time": "09:55",
-            "activity": ""
-        },
-        {
-            "time": "09:10",
-            "activity": "in sala giunta per preparare il monitor a Bortolotto per la commissione Istituto Torno"
-        },
-        {
-            "time": "08:18",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
