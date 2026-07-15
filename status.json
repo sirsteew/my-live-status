@@ -1,25 +1,4 @@
 {
     "date": "2026-07-15",
-    "history": [
-        {
-            "time": "12:15",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:53",
-            "activity": "Giunco > inceppamento stampante ragioneria e dopo Camassa > malfunzionamento firma elettronica"
-        },
-        {
-            "time": "09:52",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:48",
-            "activity": "Giunco > Halley bloccato"
-        },
-        {
-            "time": "09:10",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
