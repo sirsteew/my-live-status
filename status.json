@@ -1,33 +1,4 @@
 {
     "date": "2026-07-17",
-    "history": [
-        {
-            "time": "13:04",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:00",
-            "activity": "pausa caff\u00e8"
-        },
-        {
-            "time": "10:49",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:31",
-            "activity": "Sambusiti > sistemazione Sintel"
-        },
-        {
-            "time": "09:53",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "08:53",
-            "activity": "Bortolotto > sistemazione schermata Halley"
-        },
-        {
-            "time": "08:51",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
