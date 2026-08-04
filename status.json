@@ -1,33 +1,4 @@
 {
     "date": "2026-08-04",
-    "history": [
-        {
-            "time": "17:04",
-            "activity": "Stefano > con Crippa per continuo lavoro censimento ICT del PNRR // Emanuela > in ufficio"
-        },
-        {
-            "time": "16:43",
-            "activity": "caffe"
-        },
-        {
-            "time": "11:50",
-            "activity": "Stefano > con Crippa per continuo lavoro censimento ICT del PNRR // Emanuela > in ufficio"
-        },
-        {
-            "time": "11:34",
-            "activity": "Emanuela > Anagrafe per problema connessione // Stefano > con Crippa per continuo lavoro censimento ITC del PNRR"
-        },
-        {
-            "time": "10:47",
-            "activity": "Stefano > Pettinicchio per gestire richiesta Segretariato // Emanuela > in ufficio"
-        },
-        {
-            "time": "10:32",
-            "activity": "Stefano > Pettinicchio per gestire richiesta Segretariato // Emanuela > Protocollo cambio toner"
-        },
-        {
-            "time": "08:30",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
