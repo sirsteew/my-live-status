@@ -1,37 +1,4 @@
 {
     "date": "2026-08-06",
-    "history": [
-        {
-            "time": "17:01",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "16:16",
-            "activity": "caffeina time"
-        },
-        {
-            "time": "15:11",
-            "activity": "in ufficio entrambi"
-        },
-        {
-            "time": "15:02",
-            "activity": "Stefano > uff.tecnico (Oppizzi) // Emanuela > in ufficio"
-        },
-        {
-            "time": "14:50",
-            "activity": "Emanuela > uff.tecnico (Oppizzi) // Stefano > in ufficio"
-        },
-        {
-            "time": "12:36",
-            "activity": "tornati entrambi in ufficio"
-        },
-        {
-            "time": "12:18",
-            "activity": "Emanuela > Reali (pc spento) // Stefano > Anagrafe (problemi con Halley)"
-        },
-        {
-            "time": "08:38",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
