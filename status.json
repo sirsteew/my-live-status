@@ -1,25 +1,4 @@
 {
-    "date": "2026-08-12",
-    "history": [
-        {
-            "time": "14:17",
-            "activity": "Fine servizio"
-        },
-        {
-            "time": "13:56",
-            "activity": "In ufficio"
-        },
-        {
-            "time": "13:22",
-            "activity": "In Polizia locale problema pc agente 04"
-        },
-        {
-            "time": "10:26",
-            "activity": "Controllo ReGis per verifica integrazioni"
-        },
-        {
-            "time": "09:20",
-            "activity": "In ufficio per checklist giornaliera e controlli sicurezza"
-        }
-    ]
+    "date": "2026-08-13",
+    "history": []
 }
