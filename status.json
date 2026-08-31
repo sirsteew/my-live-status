@@ -1,21 +1,4 @@
 {
     "date": "2026-08-31",
-    "history": [
-        {
-            "time": "13:17",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:24",
-            "activity": "Stefano > Giuliani"
-        },
-        {
-            "time": "08:46",
-            "activity": "Stefano con Zammarano per DUP"
-        },
-        {
-            "time": "08:04",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
