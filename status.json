@@ -1,25 +1,4 @@
 {
     "date": "2026-09-02",
-    "history": [
-        {
-            "time": "13:39",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:36",
-            "activity": "Stefano in ufficio / Emanuela > Camassa (corte dei conti)"
-        },
-        {
-            "time": "10:15",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:40",
-            "activity": "Stefano > Camassa"
-        },
-        {
-            "time": "08:48",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
