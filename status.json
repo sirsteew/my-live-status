@@ -1,33 +1,4 @@
 {
     "date": "2026-09-03",
-    "history": [
-        {
-            "time": "16:41",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "15:43",
-            "activity": "Emanuela > Ufficio / Stefano > PL (toner stampante)"
-        },
-        {
-            "time": "14:42",
-            "activity": "Stefano > Ufficio / Emanuela > Comelli (sala giunta)"
-        },
-        {
-            "time": "11:48",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:55",
-            "activity": "Emanuela in ufficio / Stefano > Scaringi"
-        },
-        {
-            "time": "09:45",
-            "activity": "Stefano in ufficio / Emanuela > Camassa (corte conti)"
-        },
-        {
-            "time": "08:31",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
