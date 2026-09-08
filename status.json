@@ -1,25 +1,4 @@
 {
-    "date": "2026-09-07",
-    "history": [
-        {
-            "time": "11:46",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:18",
-            "activity": "pausa kaffeina"
-        },
-        {
-            "time": "11:00",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:55",
-            "activity": "Stampante \"stato civile\" anagrafe KO"
-        },
-        {
-            "time": "09:21",
-            "activity": "in ufficio"
-        }
-    ]
+    "date": "2026-09-08",
+    "history": []
 }
