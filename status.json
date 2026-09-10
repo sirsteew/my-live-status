@@ -1,49 +1,9 @@
 {
-    "date": "2026-09-09",
+    "date": "2026-09-10",
     "history": [
         {
-            "time": "13:36",
-            "activity": "Emanuela > In ufficio / Stefano > Anagrafe"
-        },
-        {
-            "time": "13:03",
-            "activity": "Emanuela > Ufficio Scuola / Stefano > Ufficio ragioneria"
-        },
-        {
-            "time": "12:07",
-            "activity": "Stefano > Brambillasca (rimando di chiamata attivo) / Emanuela > in ufficio"
-        },
-        {
-            "time": "10:32",
+            "time": "09:26",
             "activity": "in ufficio"
-        },
-        {
-            "time": "10:28",
-            "activity": "anagrafe KO / telefoni uff tecnico KO "
-        },
-        {
-            "time": "10:04",
-            "activity": "In ufficio"
-        },
-        {
-            "time": "09:39",
-            "activity": "sala giunta per problema monitor"
-        },
-        {
-            "time": "09:33",
-            "activity": "Pettinicchio per problema apertura file"
-        },
-        {
-            "time": "09:13",
-            "activity": "In ufficio"
-        },
-        {
-            "time": "08:44",
-            "activity": "Da Morganti per problema PC"
-        },
-        {
-            "time": "08:20",
-            "activity": "In ufficio"
         }
     ]
 }
