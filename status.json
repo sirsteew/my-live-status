@@ -1,45 +1,4 @@
 {
-    "date": "2026-09-15",
-    "history": [
-        {
-            "time": "16:56",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "16:43",
-            "activity": ""
-        },
-        {
-            "time": "16:43",
-            "activity": "pausa kaffeina"
-        },
-        {
-            "time": "11:57",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:37",
-            "activity": "pausa kaffeina"
-        },
-        {
-            "time": "10:46",
-            "activity": "Emanuela > in ufficio / Stefano > Concorso."
-        },
-        {
-            "time": "10:41",
-            "activity": "Emanuela > Scuola (dambra per salvataggio file) / Stefano > concorso.."
-        },
-        {
-            "time": "10:32",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:49",
-            "activity": "Emanuela > PL (controllo stampante) /  Stefano > Auditorium ATRION (concorso)"
-        },
-        {
-            "time": "09:34",
-            "activity": "Stefano > Auditorium ATRION (concorso) / Emanuela > Ufficio"
-        }
-    ]
+    "date": "2026-09-16",
+    "history": []
 }
