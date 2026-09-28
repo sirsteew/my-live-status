@@ -1,33 +1,4 @@
 {
     "date": "2026-09-28",
-    "history": [
-        {
-            "time": "11:34",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:17",
-            "activity": "kaffeina timesss"
-        },
-        {
-            "time": "10:42",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "10:34",
-            "activity": "Stefano > in ufficio / Emanuela > Sala Giunta"
-        },
-        {
-            "time": "10:26",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:49",
-            "activity": "Stefano > Spostamento stampante appalti / Emanuela > in ufficio"
-        },
-        {
-            "time": "08:28",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
