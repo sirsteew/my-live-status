@@ -1,41 +1,4 @@
 {
     "date": "2026-09-30",
-    "history": [
-        {
-            "time": "11:45",
-            "activity": "Stefano > Brambillasca / Emanuela > in ufficio"
-        },
-        {
-            "time": "11:41",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:21",
-            "activity": "koffee break"
-        },
-        {
-            "time": "11:08",
-            "activity": "Stefano > in ufficio / Emanuela > Stampante anagrafe"
-        },
-        {
-            "time": "10:34",
-            "activity": "entrambi in ufficio (QUANDO E' DISPONIBILE se mi chiama per far firmare il disciplinare alla nuova dipendente)"
-        },
-        {
-            "time": "10:23",
-            "activity": "Stefano > Ufficio"
-        },
-        {
-            "time": "10:08",
-            "activity": "Stefano > PL per problema software Grieco"
-        },
-        {
-            "time": "09:55",
-            "activity": "Stefano > Ufficio / Emanuela > consegna credenziali nuova dipendente Pettinicchio"
-        },
-        {
-            "time": "08:45",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
