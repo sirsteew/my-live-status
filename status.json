@@ -3,6 +3,10 @@
     "history": [
         {
             "time": "10:10",
+            "activity": "Emanuela > Bellia (ragioneria) / Stefano > in ufficio"
+        },
+        {
+            "time": "10:10",
             "activity": "in ufficio"
         }
     ]
