@@ -1,33 +1,4 @@
 {
     "date": "2026-10-20",
-    "history": [
-        {
-            "time": "17:14",
-            "activity": "in ufficio "
-        },
-        {
-            "time": "16:33",
-            "activity": "pausa caff\u00e8.. "
-        },
-        {
-            "time": "16:22",
-            "activity": "Stefano > Sangalli Luisa / Emanuela > in ufficio"
-        },
-        {
-            "time": "15:26",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:25",
-            "activity": "Emanuela > Scaringi"
-        },
-        {
-            "time": "10:10",
-            "activity": "Emanuela > Bellia (ragioneria) / Stefano > in ufficio"
-        },
-        {
-            "time": "10:10",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
