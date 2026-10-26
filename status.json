@@ -1,33 +1,4 @@
 {
-    "date": "2026-10-22",
-    "history": [
-        {
-            "time": "14:26",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:23",
-            "activity": "Stefano > CED / Emanuela > ufficio"
-        },
-        {
-            "time": "12:02",
-            "activity": "Stefano > CED / Emanuela > Macchi"
-        },
-        {
-            "time": "11:50",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:11",
-            "activity": "pausa KAFFE'"
-        },
-        {
-            "time": "09:41",
-            "activity": "Stefano > Ufficio / Emanuela > Macchi (ragioneria)"
-        },
-        {
-            "time": "09:10",
-            "activity": "in ufficio"
-        }
-    ]
+    "date": "2026-10-26",
+    "history": []
 }
