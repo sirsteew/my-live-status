@@ -1,25 +1,4 @@
 {
     "date": "2026-10-26",
-    "history": [
-        {
-            "time": "11:36",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:19",
-            "activity": "pausa Kaff\u00e8"
-        },
-        {
-            "time": "10:05",
-            "activity": "Emanuela > in ufficio / Stefano > Sala giunta per gara Distributori Mattei"
-        },
-        {
-            "time": "09:47",
-            "activity": "Stefano > in ufficio / Emanuela > Marchesi "
-        },
-        {
-            "time": "09:18",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
