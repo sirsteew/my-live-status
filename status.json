@@ -1,41 +1,4 @@
 {
     "date": "2026-10-29",
-    "history": [
-        {
-            "time": "11:26",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:08",
-            "activity": "pausa Kafffffffffffffffe"
-        },
-        {
-            "time": "10:55",
-            "activity": "Emanuela > Ufficio / Stefano > Anagrafe"
-        },
-        {
-            "time": "10:47",
-            "activity": "in ufficio entrambi"
-        },
-        {
-            "time": "10:34",
-            "activity": "Stefano > Errico / Emanuela > Pettinicchio"
-        },
-        {
-            "time": "10:24",
-            "activity": "in ufficio entrambi"
-        },
-        {
-            "time": "10:17",
-            "activity": "Stefano > Sangaletti / Emanuela > in ufficio"
-        },
-        {
-            "time": "10:05",
-            "activity": "Stefano > Sangaletti / Emanuela > Brambillasca"
-        },
-        {
-            "time": "09:12",
-            "activity": "entrambi in ufficio (atrion fatto)"
-        }
-    ]
+    "history": []
 }
