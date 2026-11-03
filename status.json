@@ -1,29 +1,4 @@
 {
     "date": "2026-11-03",
-    "history": [
-        {
-            "time": "12:01",
-            "activity": "in ufficio (da tempo..)"
-        },
-        {
-            "time": "11:16",
-            "activity": "pausa kaffettino :)"
-        },
-        {
-            "time": "09:35",
-            "activity": "Emanuela > in ufficio / Crippa+Stefano > Fotocopiatori"
-        },
-        {
-            "time": "09:03",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "08:33",
-            "activity": "Emanuela > Anagrafe / Stefano > in ufficio"
-        },
-        {
-            "time": "08:18",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
