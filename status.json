@@ -1,40 +1,8 @@
 {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "history": [
         {
-            "time": "16:30",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "16:16",
-            "activity": "caffe"
-        },
-        {
-            "time": "15:23",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:59",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:19",
-            "activity": "pausa kaffe"
-        },
-        {
-            "time": "10:49",
-            "activity": "Stefano > In ufficio / Emanuela > Mandelli"
-        },
-        {
-            "time": "09:45",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "09:00",
-            "activity": "entrambi in ufficio ragioneria per spostamento computer come richiesto dal Ragionier Camassa"
-        },
-        {
-            "time": "08:42",
+            "time": "08:40",
             "activity": "in ufficio"
         }
     ]
