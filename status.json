@@ -1,29 +1,4 @@
 {
     "date": "2026-11-10",
-    "history": [
-        {
-            "time": "16:33",
-            "activity": "operativi"
-        },
-        {
-            "time": "16:14",
-            "activity": "pausa Kaff\u00e8\u00e8 :)"
-        },
-        {
-            "time": "15:54",
-            "activity": "Emanuela > Ufficio / Stefano > Stampanti (anagrafe)"
-        },
-        {
-            "time": "15:41",
-            "activity": "Emanuela > sala consiliare / Stefano > Stampanti"
-        },
-        {
-            "time": "11:14",
-            "activity": "pausa kaffeina :)"
-        },
-        {
-            "time": "08:47",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
