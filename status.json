@@ -1,29 +1,4 @@
 {
     "date": "2026-11-13",
-    "history": [
-        {
-            "time": "12:52",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:19",
-            "activity": "Emanuela > PL (attivazione stampante Vellego, Sgritta e Montalto)"
-        },
-        {
-            "time": "11:54",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "11:32",
-            "activity": "pausa kaffe"
-        },
-        {
-            "time": "10:30",
-            "activity": "Emanuela > in ufficio / Stefano > RSU "
-        },
-        {
-            "time": "08:29",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
