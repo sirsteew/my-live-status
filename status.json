@@ -1,41 +1,4 @@
 {
     "date": "2026-11-16",
-    "history": [
-        {
-            "time": "13:28",
-            "activity": "in ufficio"
-        },
-        {
-            "time": "12:20",
-            "activity": "Emanuela > protocollo / Stefano > Giuliani"
-        },
-        {
-            "time": "12:07",
-            "activity": "in ufficio (da tempo. mi scordo di scriverlo ogni volta)"
-        },
-        {
-            "time": "11:21",
-            "activity": "pausa kaff\u00e8 :)"
-        },
-        {
-            "time": "10:54",
-            "activity": "Emanuela > protocollo / Stefano > check stampanti"
-        },
-        {
-            "time": "10:12",
-            "activity": "in ufficio entrambi"
-        },
-        {
-            "time": "09:49",
-            "activity": "Emanuela > in ufficio / Stefano > gara con Bortolotto"
-        },
-        {
-            "time": "09:12",
-            "activity": "Emanuela > in ufficio / Stefano > prove stampanti"
-        },
-        {
-            "time": "08:46",
-            "activity": "in ufficio"
-        }
-    ]
+    "history": []
 }
