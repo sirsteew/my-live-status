@@ -2,6 +2,10 @@
     "date": "2026-11-17",
     "history": [
         {
+            "time": "12:00",
+            "activity": "in ufficio"
+        },
+        {
             "time": "11:18",
             "activity": "Pausa Kaffeeeee"
         },
